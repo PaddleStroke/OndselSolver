@@ -6,6 +6,7 @@
  *   See LICENSE file for details about copyright.                         *
  ***************************************************************************/
 
+#include <iterator>
 #include <sstream>
 #include <string>
 
